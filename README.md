@@ -16,7 +16,7 @@ Là dự án mở.
 * Mã tiêm: Đang làm việc
 * Thư viện tiêm: LiRa Stuti (Đang làm việc)
 * Bootstrap: Bao gồm apt.bingner.com (Đang làm việc)
-* [x] ~~amfid bypass~~ Tự mình thực hiện.
+* ~~amfid bypass~~ Tự thực hiện.
 
 Vui lòng chờ cập nhật dự án
 
