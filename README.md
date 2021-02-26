@@ -1,5 +1,5 @@
 # LiRa
-**LiRa** jailbreak cho iOS 14.0 - 14.3 tất cả thiết bị.
+**LiRa** jailbreak cho iOS 13.0 - 14.3 tất cả thiết bị.
 Là dự án mở.
 
 Được thử hiện bởi những con người đến từ Việt Nam
