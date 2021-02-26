@@ -1,10 +1,21 @@
 # LiRa
-A **LiRa**-jailbreak cho iOS 14.0 - 14.3 tất cả thiết bị.
+**LiRa**-jailbreak cho iOS 14.0 - 14.3 tất cả thiết bị.
 Là dự án mở.
 
 Được thử hiện bởi những con người đến từ Việt Nam
-# Tình trạng dự án mở
+# Tình trạng
 
-- [x] ~~amfid bypass~~ Tự mình thực hiện. Kẻ xấu có thể sử dụng điều này để phát tán mã độc hại trực tiếp.
+* Quản lý gói: Zebra
+* Khai thác: cicuta_virosa (iOS 13.0 - 14.3)
+* Thăng cấp đặc quyền (tới root): Đang làm việc
+* Nonce Setter: Đang làm việc
+* Remount: Đang làm việc
+* Bỏ qua Codesign: Đang làm việc
+* SSH: Đang hoạt động
+* Bỏ qua CoreTrust: Đang làm việc
+* Mã tiêm: Đang làm việc
+* Thư viện tiêm: LiRa Stuti (Đang làm việc)
+* Bootstrap: Bao gồm apt.bingner.com (Đang làm việc)
+* [x] ~~amfid bypass~~ Tự mình thực hiện.
 
 Vui lòng chờ cập nhật dự án
