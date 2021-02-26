@@ -19,3 +19,11 @@ Là dự án mở.
 * [x] ~~amfid bypass~~ Tự mình thực hiện.
 
 Vui lòng chờ cập nhật dự án
+
+# Cảm ơn
+
+- @ModernPwner: CVE-2021-1782, exploit cicuta_virosa
+
+# Giấy phép
+
+GPL-3.0 License
