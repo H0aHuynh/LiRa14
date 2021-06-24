@@ -5,18 +5,18 @@ Là dự án mở.
 Được thực hiện bởi những con người đến từ Việt Nam
 # Tình trạng
 
-* Quản lý gói: Zebra
+* Quản lý gói: Cydia và LiStore
 * Khai thác: cicuta_virosa (iOS 13.0 - 14.3)
 * Thăng cấp đặc quyền (tới root): Đang làm việc
-* Nonce Setter: Đang hoạt động
-* Remount: Đang làm việc
-* Bỏ qua Codesign: Đang làm việc
-* SSH: Đang hoạt động
+* Nonce Setter: Đã hoạt động
+* Remount: Đã hoạt động
+* Bỏ qua Codesign: Đã hoạt dộng
+* SSH: Đã hoạt động
 * Bỏ qua CoreTrust: Đang làm việc
 * Mã tiêm: Đang làm việc
-* Thư viện tiêm: LiRa Stuti (Đang làm việc)
+* Chất nền: LiRa Stuti (Đã hoạt động)
 * Bootstrap: Đang làm việc
-* ~~amfid bypass~~ Tự thực hiện (Đang hoạt động iOS 13.5.1 - 14.2)
+* Amfid: Đã hoạt động 
 
 Vui lòng chờ cập nhật dự án
 
